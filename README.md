@@ -1,6 +1,7 @@
 # phishdog
 ## Author: github.com/koushikavula
-## IG: instagram.com/103.235.106.26
+## Instagram: instagram.com/103.235.106.26
+### Feel free to ping me forany queries
 
 
 Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github +1 customizable
@@ -13,5 +14,6 @@ Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github +1 customizable
 git clone https://github.com/koushikavula/phishdog.git
 cd phishdog
 bash phishdog.sh
+use sudo if permissions are needed
 ```
 
