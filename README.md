@@ -1,4 +1,4 @@
-# phishdog
+# Phishdog
 ## Author: github.com/koushikavula
 ## Instagram: instagram.com/103.235.106.26
 ### Feel free to ping me for any queries
